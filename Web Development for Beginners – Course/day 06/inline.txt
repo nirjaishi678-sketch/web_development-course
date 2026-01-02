@@ -1,0 +1,99 @@
+<a> – link
+
+<span> – inline container
+
+<img> – image
+
+<strong> – strong text
+
+<b> – bold
+
+<em> – emphasis
+
+<i> – italic
+
+<u> – underline
+
+<small> – small text
+
+<mark> – highlighted text
+
+<abbr> – abbreviation
+
+<cite> – citation
+
+<code> – code text
+
+<kbd> – keyboard input
+
+<samp> – sample output
+
+<sub> – subscript
+
+<sup> – superscript
+
+<time> – time/date
+
+<label> – form label
+
+<input> – input field
+
+<button> – button
+
+<select> – dropdown
+
+<option> – dropdown option
+
+<textarea> – text area
+
+<output> – result/output
+
+<progress> – progress bar
+
+<meter> – measurement
+
+<audio> – audio
+
+<video> – video
+
+<source> – media source
+
+<track> – subtitles
+
+<br> – line break
+
+<wbr> – word break
+
+<q> – inline quote
+
+<dfn> – definition
+
+<var> – variable
+
+<bdi> – bidirectional isolation
+
+<bdo> – text direction
+
+<data> – machine-readable data
+
+<map> – image map
+
+<area> – image area
+
+<del> – deleted text
+
+<ins> – inserted text
+
+<noscript> – no script content
+
+<script> – JS code
+
+<style> – CSS style
+
+<svg> – inline SVG
+
+<math> – math formulas
+
+<object> – embedded object
+
+<embed> – embedded content

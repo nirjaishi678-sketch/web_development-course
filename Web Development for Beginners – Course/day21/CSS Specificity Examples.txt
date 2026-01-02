@@ -1,0 +1,59 @@
+*
+(0,0,0,0) – universal selector
+
+p
+(0,0,0,1) – element selector
+
+p::before
+(0,0,0,2) – element + pseudo-element
+
+div p
+(0,0,0,2) – two elements
+
+.text
+(0,0,1,0) – class selector
+
+p.text
+(0,0,1,1) – class + element
+
+[type="text"]
+(0,0,1,0) – attribute selector
+
+:hover
+(0,0,1,0) – pseudo-class
+
+a:hover
+(0,0,1,1) – pseudo-class + element
+
+.card .title
+(0,0,2,0) – two classes
+
+ul li.active
+(0,0,1,2) – class + elements
+
+:not(.hidden)
+(0,0,1,0) – argument counts, :not does not
+
+#header
+(0,1,0,0) – ID selector
+
+#header nav
+(0,1,0,1) – ID + element
+
+#header .nav-item
+(0,1,1,0) – ID + class
+
+#main .content p
+(0,1,1,1) – ID + class + element
+
+#main #sidebar
+(0,2,0,0) – two IDs
+
+style="color:red" (inline style)
+(1,0,0,0) – inline styles
+
+.text { color: blue !important; }
+Overrides all normal rules (specificity bypass)
+
+style="color:red !important"
+Highest priority possible

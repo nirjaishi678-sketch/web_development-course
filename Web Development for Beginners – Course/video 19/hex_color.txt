@@ -1,0 +1,39 @@
+Black — #000000
+
+White — #FFFFFF
+
+Red — #FF0000
+
+Green — #008000
+
+Blue — #0000FF
+
+Yellow — #FFFF00
+
+Cyan (Aqua) — #00FFFF
+
+Magenta (Fuchsia) — #FF00FF
+
+Gray — #808080
+
+Light Gray — #D3D3D3
+
+Dark Gray — #A9A9A9
+
+Orange — #FFA500
+
+Purple — #800080
+
+Pink — #FFC0CB
+
+Brown — #A52A2A
+
+Lime — #00FF00
+
+Navy — #000080
+
+Teal — #008080
+
+Olive — #808000
+
+Maroon — #800000

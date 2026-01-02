@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercise-2</title>
+    <!DOCTYPE html>
+    <html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <title>Internal CSS Example</title>
+
+        <style>
+            /* Common style for all paragraphs */
+            div p {
+                color: red;
+                padding: 10px;
+            }
+
+            /* First paragraph */
+            div p:first-child {
+                background-color: yellow;
+            }
+
+            /* Remaining paragraphs */
+            div p:not(:first-child) {
+                background-color: blue;
+            }
+        </style>
+    </head>
+
+<body>
+    <!-- write html and css code to style a paragrapgh inside a
+      div which containts 5 other paragraph . the furst bacground 
+      color yellow and rext color is red.the other paragraph backround color is blue and color is red.??? -->
+
+    <div>
+        <p>This is the first paragraph</p>
+        <p>This is the second paragraph</p>
+        <p>This is the third paragraph</p>
+        <p>This is the fourth paragraph</p>
+        <p>This is the fifth paragraph</p>
+        <p>This is the sixth paragraph</p>
+    </div>
+
+</body>
+
+</html>

@@ -1,0 +1,39 @@
+Black — black
+
+White — white
+
+Red — red
+
+Green — green
+
+Blue — blue
+
+Yellow — yellow
+
+Cyan / Aqua — cyan / aqua
+
+Magenta / Fuchsia — magenta / fuchsia
+
+Gray — gray
+
+LightGray — lightgray
+
+DarkGray — darkgray
+
+Orange — orange
+
+Purple — purple
+
+Pink — pink
+
+Brown — brown
+
+Lime — lime
+
+Navy — navy
+
+Teal — teal
+
+Olive — olive
+
+Maroon — maroon

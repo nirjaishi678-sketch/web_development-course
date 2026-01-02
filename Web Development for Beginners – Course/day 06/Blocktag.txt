@@ -1,0 +1,99 @@
+<div> – container
+
+<p> – paragraph
+
+<h1> – heading
+
+<h2>
+
+<h3>
+
+<h4>
+
+<h5>
+
+<h6>
+
+<header> – page header
+
+<footer> – page footer
+
+<main> – main content
+
+<section> – section
+
+<article> – article
+
+<aside> – sidebar
+
+<nav> – navigation
+
+<form> – form
+
+<table> – table
+
+<thead> – table head
+
+<tbody> – table body
+
+<tfoot> – table footer
+
+<tr> – table row
+
+<th> – table header cell
+
+<td> – table data cell
+
+<ul> – unordered list
+
+<ol> – ordered list
+
+<li> – list item
+
+<dl> – description list
+
+<dt> – term
+
+<dd> – description
+
+<figure> – image block
+
+<figcaption> – caption
+
+<blockquote> – quote block
+
+<pre> – preformatted text
+
+<address> – address info
+
+<fieldset> – form group
+
+<legend> – fieldset title
+
+<details> – expandable block
+
+<summary> – details heading
+
+<dialog> – dialog box
+
+<hr> – horizontal line
+
+<canvas> – drawing area
+
+<video> – video block
+
+<audio> – audio block
+
+<iframe> – embedded page
+
+<object> – embedded object
+
+<embed> – embedded media
+
+<output> – result block
+
+<noscript> – fallback content
+
+<menu> – menu list
+
+<menuitem> – menu item

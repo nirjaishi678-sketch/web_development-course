@@ -1,0 +1,39 @@
+Black (opaque) — rgba(0, 0, 0, 1)
+
+Black (50% transparent) — rgba(0, 0, 0, 0.5)
+
+White (opaque) — rgba(255, 255, 255, 1)
+
+White (70% transparent) — rgba(255, 255, 255, 0.7)
+
+Red — rgba(255, 0, 0, 1)
+
+Red (60% transparent) — rgba(255, 0, 0, 0.6)
+
+Green — rgba(0, 128, 0, 1)
+
+Green (50% transparent) — rgba(0, 128, 0, 0.5)
+
+Blue — rgba(0, 0, 255, 1)
+
+Blue (40% transparent) — rgba(0, 0, 255, 0.4)
+
+Yellow — rgba(255, 255, 0, 1)
+
+Cyan — rgba(0, 255, 255, 1)
+
+Magenta — rgba(255, 0, 255, 1)
+
+Gray — rgba(128, 128, 128, 1)
+
+Light Gray (80%) — rgba(211, 211, 211, 0.8)
+
+Orange — rgba(255, 165, 0, 1)
+
+Purple — rgba(128, 0, 128, 1)
+
+Pink — rgba(255, 192, 203, 1)
+
+Teal — rgba(0, 128, 128, 1)
+
+Overlay / Shadow — rgba(0, 0, 0, 0.3)

@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Selector</title>
+    <style>
+        /* Element selector */
+        div {
+            background-color: red;
+        }
+
+        /* class selector */
+        .red {
+            background-color: green;
+        }
+
+        /* id selector */
+        #name {
+            background-color: yellow;
+        }
+
+        /* Child selector */
+        div>p {
+            color: blue;
+            background-color: brown;
+        }
+
+        /* desendant selector */
+
+        div p {
+            color: rgb(42, 201, 219);
+            background-color: rgb(198, 31, 31);
+        }
+
+
+        /* Universal Selector */
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        /* Pseudo selector */
+        a:visited {
+            color: yellow;
+        }
+
+        a:link {
+            color: green;
+        }
+        a:active{
+            color: red;
+            background-color: red;
+        }
+        a:hover{
+            background-color: yellowgreen;
+        }
+    </style>
+</head>
+
+<body>
+    <div>
+        i am a div
+        <article>
+
+            <p>This is a pragraph.</p>
+
+        </article>
+    </div>
+
+    <div class="red">
+        a am a antother div
+    </div>
+
+    <div id="name">
+        i am anothr to another div
+    </div>
+
+    <a href="https://www.codewithharry.com/">Go to codewithharry</a>
+    <a href="https://chatgpt.com/">Go to chatgpt</a>
+</body>
+
+</html>

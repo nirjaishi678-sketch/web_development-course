@@ -1,0 +1,39 @@
+Black — hsl(0, 0%, 0%)
+
+White — hsl(0, 0%, 100%)
+
+Red — hsl(0, 100%, 50%)
+
+Green — hsl(120, 100%, 25%)
+
+Blue — hsl(240, 100%, 50%)
+
+Yellow — hsl(60, 100%, 50%)
+
+Cyan (Aqua) — hsl(180, 100%, 50%)
+
+Magenta (Fuchsia) — hsl(300, 100%, 50%)
+
+Gray — hsl(0, 0%, 50%)
+
+Light Gray — hsl(0, 0%, 83%)
+
+Dark Gray — hsl(0, 0%, 33%)
+
+Orange — hsl(39, 100%, 50%)
+
+Purple — hsl(270, 50%, 40%)
+
+Pink — hsl(350, 100%, 88%)
+
+Brown — hsl(30, 59%, 41%)
+
+Lime — hsl(120, 100%, 50%)
+
+Navy — hsl(240, 100%, 25%)
+
+Teal — hsl(180, 100%, 25%)
+
+Olive — hsl(60, 100%, 25%)
+
+Maroon — hsl(0, 100%, 25%)
